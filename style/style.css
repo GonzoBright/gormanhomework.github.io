@@ -234,7 +234,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   height: 240p;
   padding: 50px 0 50px 0;
   text-align: center; 
-  background: #1D1D1D url(header.jpg) repeat;
+  /* background: #1D1D1D url(transparent.jpg) repeat; */
   text-transform: uppercase;
   letter-spacing: 0.1em;}
 
